@@ -1,1 +1,2 @@
-# 1-2-3-canvas
+# p5.play-boilerplate
+Boiler plate for p5.play
